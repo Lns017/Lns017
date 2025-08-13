@@ -15,8 +15,8 @@ const luan = {
     localizacao: "Brasil 🇧🇷",
     objetivo: "Primeiro estágio em desenvolvimento",
     paixoes: ["Front-end", "UI/UX Design", "Tecnologia"],
-    experiencia: ["C++", "Java", "JavaScript", "HTML5", "CSS3"],
-    aprendendo: ["React", "Node.js", "TypeScript"],
+    experiencia: ["C++", "JavaScript", "HTML5", "CSS3"],
+     aprendendo: ["Java", "React", "Node.js", "TypeScript"],
     hobbies: ["Design gráfico", "Fotografia", "Coding"]
 };
 ```
@@ -80,10 +80,10 @@ const luan = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-junio-silva-98b2b82b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lns017/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luanjs_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seuportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://luansilvadev.vercel.app/)
 
 </div>
 
